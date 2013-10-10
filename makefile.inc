@@ -1,11 +1,11 @@
 main:
-	rustc main.rs -o run
+	rustc main.rs -o program
 
-prog:
-	./run
+run:
+	./program
 
 clean:
-	rm -f run
-	rm -rf run.dSYM
+	rm -f program
+	rm -rf program.dSYM
 
 .PHONY: clean
