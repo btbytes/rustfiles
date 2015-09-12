@@ -1,0 +1,5 @@
+[package]
+
+name = "happynumber"
+version = "0.0.1"
+authors = ["Pradeep Gowda <pradeep@btbytes.com>"]
